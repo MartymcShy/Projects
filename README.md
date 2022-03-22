@@ -98,5 +98,3 @@ SSH into the control node and follow the steps below:
 - Copy the config file to the ansible folder. 
 - Update the hosts file to include the private IP of the ELK machine 
 - Run the playbook, and navigate to http://40.70.240.232:5601/app/kibana to check that the installation worked as expected.
-
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._ 
